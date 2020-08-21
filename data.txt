@@ -1,0 +1,1 @@
+[{"dni":"39947737","nombre":"Franco","telefono":"3492301471","correo":"franco.peralta7@hotmail.com","imagen":"2020082107082526.jpeg"}]
